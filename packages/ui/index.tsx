@@ -1,3 +1,3 @@
 // component exports
-export * from "./button";
-export * from "./header";
+import * as React from 'react';
+export * from "./components";
